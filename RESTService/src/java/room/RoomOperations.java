@@ -17,7 +17,7 @@ public class RoomOperations {
 
     private final Gson gson = new Gson();
 
-    private static final String MONGO_URI = "mongodb+srv://n1146581:BrandanDB@cluster0.b213h.mongodb.net/?retryWrites=true&w=majority";
+    private static final String MONGO_URI = "excluded";
     private static final String DATABASE_NAME = "n1146581";
     private static final String COLLECTION_NAME = "Rooms";
 
